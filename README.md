@@ -7,6 +7,13 @@
 
 </div>
 
+
+<div align="center">
+  <h1>Yanzhuo Li</h1>
+  <p><strong>Email:</strong> 13933283058@163.com</p>
+  <p><strong>Phone:</strong> +86 18633256212</p>
+</div>
+
 ## Education
 
 
