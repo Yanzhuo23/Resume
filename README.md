@@ -4,10 +4,14 @@
 
 （括号里的是我们的顾问编写的说明，建议在简历书写完成后统一删除）
 
+<div align="center">
+
 # Yanzhuo Li
 
 **Email:** 13933283058@163.com  
 **Phone:** +86 18633256212
+
+</div>
 
 
 ## Education
