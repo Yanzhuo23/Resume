@@ -77,5 +77,5 @@
 
 ## Skills
 
-- **Languages:** English (CET-6, IELTS 6.5), Mandarin (Native)
+- **Languages:** English (IELTS 6.5, GRE(V149+Q165+AW3.0), CET-6), Mandarin (Native)
 - **Technologies:** MS Office, SPSS, PYTHON, R studio, SAS, MATLAB, LaTeX
