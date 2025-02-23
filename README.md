@@ -20,6 +20,10 @@
 - BA in Human Resource Management GPA: 86.99 (3.70/4.0)  
 - Coursework: Economics of Human Capital, Managerial Communication, Recruitment and Employee Training, Performance and Compensation Management
 
+## Publications
+  
+- **Xu Q, Li Y, Xu Q, Wu Y, Ling C, Jordan K et al. The association between shift work, sleep quality, and health-related quality of life among workers in the logistics industry. Journal of Community Health. 2024.**
+
 ## Research Experience
 
 ### Epidemiological Analysis of Digital Medical Consultation Booking System and Potential Inequality of Healthcare Service  
@@ -30,6 +34,14 @@
   - Methods: Utilizing a cross-sectional study design, a systematic sampling of individuals aged 40 and above from Hebei, Sichuan, and Jiangsu provinces was conducted. The EQ-5D health-related quality of life scale was applied to assess participants’ health status; satisfaction and the urgency of diseases were evaluated using the Likert Scale and the electronic Visual Analogue Scale (eVAS).
   - Statistical Analysis: The data will be subjected to descriptive statistical analysis and multivariate regression analysis to identify key factors influencing the use of the online registration system and discern differences among groups.
   - Expected Outcomes: The results are anticipated to provide an empirical basis for optimizing e-health services for the elderly and support the formulation of public health policies, particularly in enhancing the accessibility and equity of health services.
+
+### The Association Between Shift Work, Sleep Quality, and Health Related Quality of Life Among Workers in the Logistics Industry
+*Dec 2023 – Aug 2024*  
+- **Research Content:**
+  - Background: China has become the largest logistics market in the world. To meet market demands, logistics workers often have to work at night. However, there has been few research exploring the association between night shift work and their physical and mental health.
+  - Objective: This study aims to examine the association between night shift work and the health condition of logistics workers in China, and to evaluate whether sleep characteristics played as mediators.
+  - Methods: 484 participants completed a questionnaire on sociodemographic, specified job category, sleep and health-related characteristics using standard survey platform. Linear regression model was used to analyse the proposed associations. Mediation analysis was also conducted.
+  - Results: Of the 484 participants, 352 worked night shifts. These participants were more likely to be males and had habits of cigarette smoking and alcohol drinking. The quantified overall physical and mental health (measured by SF-12 PCS, MCS) scores of workers who worked night shifts were lower than those of workers who worked only daytime shift before and after covariation-adjustment. It was also demonstrated that sleep quality was a full mediator of the association between night shift work and overall health.
 
 ### Statistical Analysis of Phase III Clinical Trial Data: Docetaxel and Prednisone in Combination with Lenalidomide in Castration-Resistant Prostate Cancer  
 *Dec 2023*  
