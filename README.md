@@ -11,13 +11,13 @@
 
 
 **Xi’an Jiaotong-Liverpool University**  
-*Sep 2023 – Present*  
-- MS in Applied Statistics GPA: 72.125 (3.83/4.0) Distinction  
+*Sep 2023 – Mar 2025*  
+- MS in Applied Statistics GPA: 4.0/4.0 Distinction  
 - Coursework: Probability, Advanced Methods in Biostatistics, Epidemiology, Survival Analyses, Statistical Computing Using SAS, Clinical Trials Design and Analysis, Generalized Linear Models, Analysis of Longitudinal Data  
 
 **Hebei University of Economics and Business**  
 *Sep 2019 – Jun 2023*  
-- BA in Human Resource Management GPA: 86.99 (3.70/4.0)  
+- BA in Human Resource Management GPA: 3.70/4.0
 - Coursework: Economics of Human Capital, Managerial Communication, Recruitment and Employee Training, Performance and Compensation Management
 
 ## Publications
@@ -26,35 +26,29 @@
 
 ## Research Experience
 
-### Epidemiological Analysis of Digital Medical Consultation Booking System and Potential Inequality of Healthcare Service  
-*2024 – Present*  
-- **Research Content:**
-  - Background: This study investigates the impact of an increasing elderly population and extended life expectancy on health service demands, focusing on how the proliferation of e-health services alters elderly people’s access to medical services.
-  - Objective: To evaluate health service utilization patterns through Online Registration (OR) and analyze how age and educational levels influence the acceptance and satisfaction with online health services.
-  - Methods: Utilizing a cross-sectional study design, a systematic sampling of individuals aged 40 and above from Hebei, Sichuan, and Jiangsu provinces was conducted. The EQ-5D health-related quality of life scale was applied to assess participants’ health status; satisfaction and the urgency of diseases were evaluated using the Likert Scale and the electronic Visual Analogue Scale (eVAS).
-  - Statistical Analysis: The data will be subjected to descriptive statistical analysis and multivariate regression analysis to identify key factors influencing the use of the online registration system and discern differences among groups.
-  - Expected Outcomes: The results are anticipated to provide an empirical basis for optimizing e-health services for the elderly and support the formulation of public health policies, particularly in enhancing the accessibility and equity of health services.
+### Digital Medical Booking System and Potential Inequality of Healthcare Service  
+*Dec 2024 – May 2025*  
+- **Objective:** This study aims to investigate the relationships between users’ experiences with Online MedicalAppointment Booking Systems—including perceived ease of use, satisfaction, appointment delays, and bookingsuccess rates—and their disease-related conditions and sociodemographic characteristics.
+- **Methods:** A cross-sectional survey was conducted via random sampling among individuals aged 40 and above in Hebei, Jiangsu, and Sichuan Provinces, all of whom had prior experience with Online Medical Appointment Booking Systems.
+- **Results:** Participants who were older, lived in rural areas, had lower income or education levels, or reported poorer health were more likely to experience difficulties using the online booking system. These difficulties were often linked to appointment delays and lower booking success rates. Among participants with chronic conditions, such as hypertension or digestive diseases, those who faced delays also reported more severe symptoms and more urgent care needs. Dissatisfaction with the system was commonly observed among individuals with greater disease burdens.
+- **Conclusions:** These findings provide evidence of the ’inverse care law’ in digital healthcare, highlighting persistent disparities in users’ experiences with online appointment systems, where those with greatest medical needs (older adults, rural residents, individuals with lower education or more severe health conditions) face the most significant barriers. As digital healthcare tools become more widespread, ensuring system usability and accessibility for vulnerable groups will be essential for promoting equitable and effective healthcare delivery
 
 ### The Association Between Shift Work, Sleep Quality, and Health Related Quality of Life Among Workers in the Logistics Industry
 *Dec 2023 – Aug 2024*  
-- **Research Content:**
-  - Background: China has become the largest logistics market in the world. To meet market demands, logistics workers often have to work at night. However, there has been few research exploring the association between night shift work and their physical and mental health.
-  - Objective: This study aims to examine the association between night shift work and the health condition of logistics workers in China, and to evaluate whether sleep characteristics played as mediators.
-  - Methods: 484 participants completed a questionnaire on sociodemographic, specified job category, sleep and health-related characteristics using standard survey platform. Linear regression model was used to analyse the proposed associations. Mediation analysis was also conducted.
-  - Results: Of the 484 participants, 352 worked night shifts. These participants were more likely to be males and had habits of cigarette smoking and alcohol drinking. The quantified overall physical and mental health (measured by SF-12 PCS, MCS) scores of workers who worked night shifts were lower than those of workers who worked only daytime shift before and after covariation-adjustment. It was also demonstrated that sleep quality was a full mediator of the association between night shift work and overall health.
+- **Objective:** This study aimed to investigate the association between night-shift work and health-related quality of life (HRQoL) among logistics workers in China, with a particular focus on the mediating role of sleep characteristics.
+- **Methods:** The survey collected data on shift work, sleep characteristics (measured by the Insomnia Severity Index), HRQoL (assessed by the 12-Item Short Form Health Survey, including physical and mental
+components), sociodemographic factors, and job categories. Linear regression analysis was used to explore the association between night-shift work and HRQoL, while structural equation modelling (SEM) was employed to assess the mediating role of sleep quality.
+- **Results:** Out of 484 respondents, 72.7 per cent were night-shift workers, who were more likely to be male, smokers, alcohol users, less educated, and engaged in longer working hours within transportation and distribution jobs. The study found a significant decline in general health among night-shift workers compared to day workers. A negative association was identified between the frequency of night shifts and physical health, with those working more than 12 night shifts per month reporting worse health outcomes. Sleep quality was found to significantly mediate the relationship between night-shift work and HRQoL.
+- **Conclusions:** The study highlights the detrimental impact of frequent night-shift work on the health-related quality of life of logistics workers and emphasises the crucial mediating role of sleep quality. These findings suggest that improving sleep quality should be a priority to promote the health and well-being of logistics workers.
 
 ### Statistical Analysis of Phase III Clinical Trial Data: Docetaxel and Prednisone in Combination with Lenalidomide in Castration-Resistant Prostate Cancer  
-*Dec 2023*  
+*Dec 2023 - Jan 2024*  
 - **Project:** “Efficacy and Safety of Docetaxel and Prednisone with Lenalidomide for Castration-Resistant Prostate Cancer: A Randomized, Double-Blind Phase 3 Trial”  
 - **Data Source:** Clinical trial data from studies NCT00988208 and NCT00273338 registered at ClinicalTrials.gov.
-- **Analysis Content:**
-  - Primary Endpoint: Overall survival.
-  - Secondary Endpoints: Duration of skeletal-related event (SRE)-free survival, thromboembolic event (TE) rate, change in Prostate Specific Antigen (PSA), and safety profile.
-- **Skills and Achievements:**
-  - Biostatistical Methods Applied: Utilized descriptive statistics, Kaplan-Meier analysis, log-rank tests, and Cox regression analysis for multifactorial analysis on overall survival.
-  - Data Handling: Managed and analyzed data using tools from clinical trials, emphasizing data integrity and rigorous statistical testing.
-  - Independent Analysis: Conducted comprehensive data cleaning, exploratory analysis, model building, and interpretation of clinical trial data to assess the therapeutic impact and safety of treatment regimens.
-
+- **Analysis Content:** Overall survival, Secondary Endpoints: Duration of skeletal-related event (SRE)-free survival, thromboembolic event (TE) rate, change in Prostate Specific Antigen (PSA), and safety profile.
+- **Biostatistical Methods Applied:** Utilized descriptive statistics, Kaplan-Meier analysis, log-rank tests, and Cox regression analysis for multifactorial analysis on overall survival.
+- **Data Processing:** Clean data per CDISC standards, analyze multimodal data to extract clinical insights, and interpret results to assess treatment efficacy and safety.
+ 
 ## Internship Experience
 
 ### Ernst & Young China  
@@ -70,16 +64,13 @@
 ## Extracurricular Experience
 
 ### Public Relations and External Affairs Department, Student Union  
-**Director**  
-*Jun 2020 - Jun 2021*  
-- Designed and organized various campus life activities for students, such as glow night runs, cultural trips for clubs, etc.
-- Held weekly department meetings to schedule new tasks for the department members for the upcoming week and oversaw the implementation of projects.
-- Participated in weekly student council meetings to report the previous week’s work to the president and plan for the following week’s tasks.
-
-**Officer**  
-*Sep 2019 - Jun 2020*  
-- Sought cooperation with social organizations to secure sponsorships for campus activities and successfully obtained sponsorships from influential domestic educational institutions, including New Oriental Education & Technology Group and Guixue.
+**Director -->  Officer**  
+*Sep 2019 - Jun 2021*  
+- Sought cooperation with social organizations to secure sponsorships for our campus activities and successfully obtained sponsorships from influential domestic educational institutions, New Oriental Education & Technology Group and Guixue.
 - Collaborated with sponsors to organize campus corporate promotion events.
+- Held weekly department meetings to schedule new tasks for the department members for the upcoming week
+and oversaw the implementation of projects.
+- Participated in weekly student council meetings to report the previous week’s work to the president and plan for the following week’s tasks
 
 ### Business Administration College Student Union  
 **Host of the Freshmen Welcome Party**  
