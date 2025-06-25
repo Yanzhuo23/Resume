@@ -64,7 +64,7 @@ components), sociodemographic factors, and job categories. Linear regression ana
 ## Extracurricular Experience
 
 ### Public Relations and External Affairs Department, Student Union  
-**Director -->  Officer**  
+**Officer -->  Director**  
 *Sep 2019 - Jun 2021*  
 - Sought cooperation with social organizations to secure sponsorships for our campus activities and successfully obtained sponsorships from influential domestic educational institutions, New Oriental Education & Technology Group and Guixue.
 - Collaborated with sponsors to organize campus corporate promotion events.
